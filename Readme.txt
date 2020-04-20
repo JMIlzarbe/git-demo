@@ -9,3 +9,5 @@ No se que mierda ha puesto.
 Mas cambios.
 
 Otros pocos más de cambios.
+
+Modificaciones de estado desde la interfaz grafica.
